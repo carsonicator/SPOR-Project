@@ -1,0 +1,16 @@
+encounter_id,Acuity,Outcome,RAF_neg_out,RAF
+E001,1 - Resuscitation,1,0.125,0.875
+E002,2 - Emergent,1,0.25,0.75
+E003,3 - Urgent,1,0.375,0.625
+E004,3 - Urgent,1,0.375,0.625
+E005,3 - Urgent,1,0.375,0.625
+E006,3 - Urgent,0,0.875,0.125
+E007,2 - Emergent,0,0.75,0.25
+E008,1 - Resuscitation,0,0.625,0.375
+E009,1 - Resuscitation,0,0.625,0.375
+E010,1 - Resuscitation,0,0.625,0.375
+E011,4 - Non-Urgent,0,0.9,0.1
+E012,4 - Non-Urgent,0,0.9,0.1
+E013,4 - Non-Urgent,0,0.9,0.1
+E014,4 - Non-Urgent,0,0.9,0.1
+E015,4 - Non-Urgent,1,0.4,0.6
