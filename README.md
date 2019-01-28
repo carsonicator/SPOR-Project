@@ -1,7 +1,7 @@
 # Description
 Shared patient encounters form the basis for collaborative relationships, which are crucial to the success of interdisciplinary teamwork in healthcare. Quantifying the strength of these relationships using shared risk-adjusted patient outcomes provides insight into interactions that occur between healthcare providers in a hospital setting. A network-based approach that quantifies teamwork quality can characterize clinical processes, facilitate quality improvement (QI), and become an important tool in learning healthcare systems. The goal of this project is to establish a generalizable, graph-based framework for measuring the Shared Positive Outcome Ratio (SPOR), an objective composite measure that quantifies the concentration of risk-adjusted positive outcomes for each pair of providers over a set of shared patient encounters.
 
-![alt text](https://github.com/carsonicator/SPOR-Project/blob/master/examples/shared_encounters_example.pdf "shared encounter example")
+![alt text](https://github.com/carsonicator/SPOR-Project/blob/master/examples/shared_encounters_example.png "shared encounter example")
 
 The Shared Positive Outcome Ratio, or SPOR, weights relationships according to the relative success of a provider pair. The SPOR answers this question: '_How many more good outcomes do these two providers achieve when they work together versus when they work with other providers?_’ If the rate of satisfaction was the same inside the overlap as it is outside of the overlap, the SPOR would be 1, which is the expected value. In this example, however, both providers have greater success when working together (i.e., inside the overlap) and the SPOR value is greater than 1. This metric was calculated for each pair of providers in the network.
 
