@@ -45,7 +45,7 @@ Once you've set up your database, you can load the test data using the Cypher qu
 
 ## Testing the database connection in python
 
-_./code/Neo4j_test_query_with_Python.ipynb_ can be used to test the database connection and sample query.
+[_./code/Neo4j_test_query_with_Python.ipynb_](https://github.com/carsonicator/SPOR-Project/blob/master/code/Neo4j_test_query_with_Python.ipynb) can be used to test the database connection and sample query.
 
 # Citations
 
