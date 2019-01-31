@@ -58,3 +58,6 @@ The **Shared Positive Outcome Ratio (SPOR)** metric and example applications are
 2. Carson, M. B., Scholtens, D. M., Frailey, C. N., Gravenor, S. J., Powell, E. S., Wang, A. Y., Kricke, G. S., Ahmad, F. S., Mutharasan, R. K., and Soulakis, N. D. [_Characterizing Teamwork in Cardiovascular Care Outcomes: A Network Analytics Approach._](http://circoutcomes.ahajournals.org/content/9/6/670) Circ Cardiovasc Qual Outcomes. 2016 Nov; 9(6): 670–678. doi: 10.1161/CIRCOUTCOMES.116.003041. PMID: 28051772
 
 3. Carson, M. B., Scholtens, D. M., Frailey, C. N., Gravenor, S. J., Powell, E. S., Wang, A. Y., Kricke, G. S., Ahmad, F. S., Mutharasan, R. K., Soulakis, N. D. An outcome- weighted network model for quantifying and measuring collaboration in a hospital cardiology unit. AMIA 2016 Annual Symposium Nov. 12-16, Chicago, IL. [doi:10.18131/G3HC89](https://digitalhub.northwestern.edu/files/3e5cf487-2383-4d1f-b697-ed40a8b79670)
+
+
+[![DOI:10.18131/G3HC89](https://digitalhub.northwestern.edu/files/3e5cf487-2383-4d1f-b697-ed40a8b79670)](https://doi.org/10.18131/G3HC89)
