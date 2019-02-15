@@ -1,4 +1,4 @@
-// Cypher query to load provider-encounter test data
+// Cypher queries to load provider-encounter test data
 
 // For convenience...
 //
@@ -14,7 +14,6 @@ LOAD CSV WITH HEADERS
 FROM "file://./data/test_activities.csv" AS line FIELDTERMINATOR ','
 WITH line
 
-// Had to change this from MERGE to CREATE for Neo4j Desktop v1.1.3
 MERGE (encounter:Encounter { id: line.encounter_id_DEID })
 SET encounter.deid = line.encounter_id_DEID
 
