@@ -43,7 +43,7 @@ _load_test_data.cql_: contains queries to load test data into the graph database
 
 Once you've set up your database, you can load the test data using the Cypher queries in _load_test_data.cql_. There are two queries you need to run. The first one loads the _provider_ and _encounter_ nodes followed by the `[:INVOLVED_IN]` relationship. The second query adds attributes to the _encounter_ nodes. Just copy the queries one at a time, paste them in the Neo4j browser query window, and push the _Play_ button.
 
-## Testing the database connection in python
+## Testing the database connection in Python
 
 [_./code/Neo4j_test_query_with_Python.ipynb_](https://github.com/carsonicator/SPOR-Project/blob/master/code/Neo4j_test_query_with_Python.ipynb) can be used to test the database connection and sample query.
 
