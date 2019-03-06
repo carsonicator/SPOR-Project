@@ -35,7 +35,7 @@ _load_test_data.cql_: contains queries to load test data into the graph database
 
 3. Click 'Manage' and go to 'Settings'. You should see the _neo4j.conf_ file displayed below. By default Neo4j only allows .csv file imports from the _import_ folder. For Macs, this folder lives in _/Users/[user_name]/Library/Application Support/Neo4j Desktop/Application/neo4jDatabases/[database-id]]/installation-[version]/_ by default. However, you can access it in the Neo4j administration window. If you want to load files from another location, comment out the following line:
 
-...`dbms.directories.import=import`
+   `dbms.directories.import=import`
 
 4. Start the database and open the browser.
 
